@@ -1,0 +1,17 @@
+/docs/
+/bin/
+/obj/
+**/bin/
+**/obj/
+/.artifacts/
+/.vs/
+/.idea/
+.DS_Store
+*.user
+*.suo
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.key
